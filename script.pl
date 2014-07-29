@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
 
-use stri
+use strict;
 
 print "Example perl script for CS 317\n";
